@@ -28,10 +28,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/JoaoSerezuelo/JoaoSerezuelo/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/JoaoSerezuelo/count.svg?"  />
 </div>
