@@ -34,5 +34,5 @@
 
 ###
 
-![Snake animation](https://github.com/JoaoSerezuelo/JoaoSerezuelo/blob/output/github-contribution-grid-snake.svg)
+
  
